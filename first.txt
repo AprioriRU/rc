@@ -1,2 +1,1 @@
-File added for first commit
 Added line from master branch
